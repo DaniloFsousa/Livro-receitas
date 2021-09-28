@@ -5,6 +5,5 @@
 	<h4>Titulo nivel 4</h4>
 	<h5>Titulo nivel 5</h5>
 	<h6>Titulo nivel 6</h6>
-        <h7>Titulo nivel 7</h7>
-	<h8>Titulo nivel 8</H8>
+	<h7>Titulo nivel 7</h7>
 </html>	
